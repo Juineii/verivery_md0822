@@ -8,11 +8,15 @@ from datetime import datetime
 
 # ================== 配置 ==================
 PRODUCTS = {
-    "kunho合影": 13124,
-    # "其他商品": 12345,
+    "VERIVERY线下团签": 13429,
+    "DONGHEON_DIY":13430,
+    "GYEHYEON_DIY":13431,
+    "YEONHO_DIY":13432,
+    "YONGSEUNG_DIY":13433,
+    "KANGMIN_DIY": 13434
 }
 
-GITHUB_REPO = "Juineii/82major_md0513"    # 请替换为您的仓库名
+GITHUB_REPO = "Juineii/verivery_md0822"    # 请替换为您的仓库名
 GITHUB_BRANCH = "main"                    # 分支名（main 或 master）
 PUSH_INTERVAL = 60                        # 推送检查间隔（秒）
 
